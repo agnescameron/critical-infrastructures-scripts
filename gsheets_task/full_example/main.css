@@ -1,0 +1,23 @@
+#content {
+	width: 500px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	margin-top: 10px;
+	padding: 5px;
+	border: 1px solid black;
+	background-color: lightgrey;
+}
+
+li:hover {
+	background-color: lightyellow;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
